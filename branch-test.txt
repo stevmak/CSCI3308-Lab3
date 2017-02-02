@@ -1,1 +1,2 @@
 Text file to test branching with git.
+This is a new edit to test branching.
