@@ -1,1 +1,2 @@
 This is just a text file to test git.
+This is a new edit to this file.
